@@ -1,4 +1,4 @@
---hi
+--epic
 if game.PlaceId == 537413528 then
 	wait(1)
 local blur = Instance.new("BlurEffect", game.Lighting)
